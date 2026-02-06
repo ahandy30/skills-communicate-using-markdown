@@ -6,6 +6,8 @@
 - [ ] Convert my first blog post into an actual webpage.
 - [ ] Adding this for myself
 
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 ## Review
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 ```bash
